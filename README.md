@@ -1,6 +1,5 @@
-### Hi there 👋 My name is Adam and I'm a Software Developer student.
+### Hi there 👋 I'm a Software Developer student.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamGalla)
 
 <!--
 **AdamGalla/AdamGalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
