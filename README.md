@@ -1,7 +1,8 @@
 Software Development Student
 
-- 💻 C#, TypeScript, .NET, React, Next.js
+- 💻 C#, TypeScript, .NET, React
+- 📖 I'm currently learning Next.js
 - 💼 I’m open to work!
-- 🌐 My portfolio: https://adamgalla.com
+- 🌐 https://adamgalla.com
 - 📫 How to reach me: me@adamgalla.com
 
