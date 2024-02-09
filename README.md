@@ -7,3 +7,6 @@ Software Development Student
 - 📫 How to reach me: me@adamgalla.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamGalla&show_icons=true&theme=transparent&rank_icon=github)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamGalla)](https://github.com/anuraghazra/github-readme-stats)
+
