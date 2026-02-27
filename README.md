@@ -3,7 +3,7 @@
 I'm a developer currently working on my **Master's thesis in NLP** (Natural Language Processing).
 
 ## 🛠️ Technologies & Tools
-- **Languages:** C#, Python
+- **Languages:** C#, Python, Typescript
 - **Frameworks & Platforms:** .NET, React
 
 ## 🔭 Interests
